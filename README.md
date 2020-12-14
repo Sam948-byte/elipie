@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-some epic stats:
+
+
 [![epic](https://github-readme-stats.vercel.app/api?username=elipie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
