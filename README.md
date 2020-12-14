@@ -4,7 +4,8 @@ some epic stats:
 [![epic](https://github-readme-stats.vercel.app/api?username=elipie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![my most-used languages donno why eee is here](https://github-readme-stats.vercel.app/api/top-langs/?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elipie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on PieLang
