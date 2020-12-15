@@ -1,11 +1,12 @@
 ### Hi there 👋
-Some absoultley epic stats: 
+Some  epic stats: 
 
 
 [![epic](https://github-readme-stats.vercel.app/api?username=elipie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elipie)](https://github.com/anuraghazra/github-readme-stats)
+[![no](https://github-readme-stats.vercel.app/api/wakatime?username=elipie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
