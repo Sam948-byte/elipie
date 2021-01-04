@@ -11,6 +11,7 @@ Some  epic stats:
 ERROR... CANNOT GET '/'
 ABORTING...
 
+I am back, and in 2021! Sorry I was gone for so long, I had break. I mostly worked with unity.
 
 - 🔭 I’m currently working on PieLang & My os BettaOS(as in the fish)
 - 🌱 I’m currently learning Crystal & Rust
